@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_pipeline">
+    <sn_pipeline_pipeline action="DELETE">
+        <active>true</active>
+        <name>Invalid pipe</name>
+        <pipeline_type display_value="Application Deployment">268f9c0fb73430100290b9708e11a9de</pipeline_type>
+        <source_environment display_value="Testing">e74f829a47a00210bf43a16f316d43f5</source_environment>
+        <sys_class_name>sn_pipeline_pipeline</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-26 11:12:57</sys_created_on>
+        <sys_id>e89fc69a47a00210bf43a16f316d43db</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Invalid pipe</sys_name>
+        <sys_package display_value="Custom Code Search" source="x_83071_custom_c_0">e64d42d647a00210bf43a16f316d430a</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Custom Code Search">e64d42d647a00210bf43a16f316d430a</sys_scope>
+        <sys_update_name>sn_pipeline_pipeline_e89fc69a47a00210bf43a16f316d43db</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-26 11:12:57</sys_updated_on>
+    </sn_pipeline_pipeline>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Custom Code Search">e64d42d647a00210bf43a16f316d430a</application>
+        <file_path/>
+        <instance_id>d4acbe53dbde3d5038f11729139619e0</instance_id>
+        <instance_name>dev210048</instance_name>
+        <name>sn_pipeline_pipeline_e89fc69a47a00210bf43a16f316d43db</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sn_pipeline_pipeline"><sn_pipeline_pipeline action="INSERT_OR_UPDATE"><active>true</active><name>Invalid pipe</name><pipeline_type display_value="Application Deployment">268f9c0fb73430100290b9708e11a9de</pipeline_type><source_environment display_value="Testing">e74f829a47a00210bf43a16f316d43f5</source_environment><sys_class_name>sn_pipeline_pipeline</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-02-26 11:12:57</sys_created_on><sys_id>e89fc69a47a00210bf43a16f316d43db</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Invalid pipe</sys_name><sys_package display_value="Custom Code Search" source="x_83071_custom_c_0">e64d42d647a00210bf43a16f316d430a</sys_package><sys_policy/><sys_scope display_value="Custom Code Search">e64d42d647a00210bf43a16f316d430a</sys_scope><sys_update_name>sn_pipeline_pipeline_e89fc69a47a00210bf43a16f316d43db</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-02-26 11:12:57</sys_updated_on></sn_pipeline_pipeline></record_update>]]></payload>
+        <payload_hash>1768215376</payload_hash>
+        <record_name>Invalid pipe</record_name>
+        <reverted_from/>
+        <source>a64d42d647a00210bf43a16f316d430c</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-26 11:12:57</sys_created_on>
+        <sys_id>f4af429a47a00210bf43a16f316d43fc</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>18de51e326c0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-26 11:12:57</sys_updated_on>
+        <type>Pipeline</type>
+        <update_guid>3caf429a93a00210e7ab8c295f8aa6fb</update_guid>
+        <update_guid_history>3caf429a93a00210e7ab8c295f8aa6fb:1768215376</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Invalid pipe">081052da47a00210bf43a16f316d432d</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-02-26 11:14:49</sys_created_on>
+        <sys_db_object display_value="" name="sn_pipeline_pipeline">sn_pipeline_pipeline</sys_db_object>
+        <sys_id>39926ec88d4a47d39fcec1f5868570e9</sys_id>
+        <sys_metadata>e89fc69a47a00210bf43a16f316d43db</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Invalid pipe</sys_name>
+        <sys_package display_value="Custom Code Search" source="x_83071_custom_c_0">e64d42d647a00210bf43a16f316d430a</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Custom Code Search">e64d42d647a00210bf43a16f316d430a</sys_scope>
+        <sys_scope_delete display_value="">11212874ee95488d825774fc5e50b601</sys_scope_delete>
+        <sys_update_name>sn_pipeline_pipeline_e89fc69a47a00210bf43a16f316d43db</sys_update_name>
+        <sys_update_version display_value="sn_pipeline_pipeline_e89fc69a47a00210bf43a16f316d43db">f4af429a47a00210bf43a16f316d43fc</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-26 11:14:49</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
